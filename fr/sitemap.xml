@@ -139,6 +139,9 @@
         <loc>https://docs.athena-bot.xyz/fr/Esport/esport-calendar-display/</loc>
       </url>
       <url>
+        <loc>https://docs.athena-bot.xyz/fr/Esport/esport-calendar-force/</loc>
+      </url>
+      <url>
         <loc>https://docs.athena-bot.xyz/fr/Esport/esport-calendar-set/</loc>
       </url>
       <url>
@@ -163,6 +166,9 @@
         <loc>https://docs.athena-bot.xyz/fr/Esport/esport-edit-env/</loc>
       </url>
       <url>
+        <loc>https://docs.athena-bot.xyz/fr/Esport/esport-hr-players/</loc>
+      </url>
+      <url>
         <loc>https://docs.athena-bot.xyz/fr/Esport/esport-match-add/</loc>
       </url>
       <url>
@@ -182,6 +188,9 @@
       </url>
       <url>
         <loc>https://docs.athena-bot.xyz/fr/Esport/esport-show-role/</loc>
+      </url>
+      <url>
+        <loc>https://docs.athena-bot.xyz/fr/Esport/esport-stats-competitions/</loc>
       </url>
       <url>
         <loc>https://docs.athena-bot.xyz/fr/Esport/show_manager/</loc>
